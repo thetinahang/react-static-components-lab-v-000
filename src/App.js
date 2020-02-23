@@ -11,6 +11,7 @@ class App extends Component {
 				<CatComponent />
 				<GraceHopperQuoteComponent />
 				<MouseComponent />
+        <EinsteinQuoteComponent />
 			</div>
 		);
 	}
