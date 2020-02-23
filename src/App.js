@@ -9,9 +9,9 @@ class App extends Component {
 		return (
 			<div className="App">
 				<CatComponent />
+        <EinsteinQuoteComponent />
 				<GraceHopperQuoteComponent />
 				<MouseComponent />
-        <EinsteinQuoteComponent />
 			</div>
 		);
 	}
