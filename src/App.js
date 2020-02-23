@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import CatComponent from './CatComponent';
+import EinsteinQuoteComponent from './EinsteinQuoteComponent'
 import GraceHopperQuoteComponent from './GraceHopperQuoteComponent';
 import MouseComponent from './MouseComponent';
 
