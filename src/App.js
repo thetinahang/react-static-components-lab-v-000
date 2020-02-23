@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import CatComponent from './CatComponent';
 import EinsteinQuoteComponent from './EinsteinQuoteComponent';
-import GraceHopperQuoteComponent from './GraceHopperQuoteComponent';
 import MouseComponent from './MouseComponent';
 
 class App extends Component {
@@ -11,7 +10,6 @@ class App extends Component {
 			<div className="App">
 				<CatComponent />
         <EinsteinQuoteComponent />
-				<GraceHopperQuoteComponent />
 				<MouseComponent />
 			</div>
 		);
